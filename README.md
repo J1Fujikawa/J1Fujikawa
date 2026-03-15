@@ -6,8 +6,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-TDD_/_Automated_Test-green?style=for-the-badge&logo=checkmarx&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/Search-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
 # 職務経歴書
 
