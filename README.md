@@ -20,6 +20,10 @@
 * **フロントエンド:**
   * JavaScript(Vue.js/Alpine.js) : 3年
   * Kotlin(Android) : 3年
+* **ツール:**
+  * インフラ: Docker(Docker-Compose), CloudWatch
+  * バージョン管理: Git, Backlog, Github
+  * テスト: PHPUnit, pytest
 
 ## ■ 職務経歴
 ### [現職：会社名]（2018年8月 〜 現在）
